@@ -1,7 +1,6 @@
 ![Designer and Developer](https://github.com/ismaelcorreia/ismaelcorreia/blob/main/github%20background%201.png)
 
-#Ismael Correia
-__
+# Ismael Correia
 ### Hi there 👋, let's build something together
 
 <!--
