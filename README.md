@@ -21,7 +21,7 @@
 
 <p>❤️ On my GitHub, you'll find a collection of my personal and open-source projects that showcase my technical prowess and problem-solving abilities. These projects demonstrate my expertise in various languages, frameworks, and technologies. I'm dedicated to writing clean, efficient code and following best practices to deliver high-quality software.</p>
 
-<p>🌐 As an advocate for collaboration and learning, I'm always eager to connect with fellow developers, share knowledge, and contribute to open-source projects. Let's collaborate on exciting projects and inspire each other's growth. Feel free to reach out if you'd like to connect or discuss potential opportunities. You can contact me via You can contact me on Facebook at ![Ismael Clever](https://web.facebook.com/iClever.Dev).</p>
+<p>🌐 As an advocate for collaboration and learning, I'm always eager to connect with fellow developers, share knowledge, and contribute to open-source projects. Let's collaborate on exciting projects and inspire each other's growth. Feel free to reach out if you'd like to connect or discuss potential opportunities.</p>
 
 #### 🙏 Thank you for visiting my GitHub profile! Together, let's embark on a journey of innovation, embracing diversity, and turning dreams into reality."
 
