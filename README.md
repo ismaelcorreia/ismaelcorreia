@@ -3,10 +3,10 @@
 💻 Full-stack Developer | 📱 Flutter Expert | 🌐 Vue & Spring Boot Enthusiast
 🧠 Passionate about clean code, real-world solutions, and AI innovation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/ismael-correia)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow\&style=social)](https://github.com/your-username)
-[![Top Language](https://img.shields.io/github/languages/top/your-username/your-repo)](https://github.com/your-username)
-[![Website](https://img.shields.io/badge/Portfolio-Live-green?style=flat\&logo=vercel)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/ismael-correia-077ba31b3)
+[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow\&style=social)](https://github.com/ismaelcorreia)
+[![Top Language](https://img.shields.io/github/languages/top/your-username/your-repo)](https://github.com/ismaelcorreia)
+[![Website](https://img.shields.io/badge/Portfolio-Live-green?style=flat\&logo=vercel)](https://www.figma.com/team_invite/redeem/ETvNGV7lQEVotJORsC6gmr)
 
 ---
 
